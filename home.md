@@ -1,7 +1,7 @@
 # Payments API - UAPIM
 
 Permits payments of orders if current User has access permissions to it. 
-Developed by Andres.
+Developed by Sergio.
 
 **URL** : `/api/payments/:pk/`
 
@@ -61,7 +61,7 @@ permissions.
 {"detail": "You do not have permission to perform this action."}
 ```
 
-## Notes bien!
+## Notes
 
 There are security issues:
 
