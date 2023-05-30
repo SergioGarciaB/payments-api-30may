@@ -10,5 +10,6 @@ projects:
     tags:
       - logistics
       - commerce
+      - formacion
     documentation:
       Home: home.md
